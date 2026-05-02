@@ -29,15 +29,6 @@ It provides actionable insights into how different genders approach savings, inv
 ## 📸 Screenshot
 <img width="1314" height="737" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/0c0d4583-8999-427c-a4e1-036a62105bb2" />
 
-
-## 📂 Repository Structure
-- `/dashboard` → Power BI `.pbix` file  
-- `/data` → Sample dataset (if included)  
-- `/docs` → Documentation and supporting materials  
-
-## 📌 Tagline
-**Interactive Power BI dashboard analyzing investor demographics, preferences, and behavior patterns.**
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
