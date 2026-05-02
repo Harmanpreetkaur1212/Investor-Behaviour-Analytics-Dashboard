@@ -27,7 +27,7 @@ It provides actionable insights into how different genders approach savings, inv
 3. Explore the interactive dashboard with filters and charts  
 
 ## 📸 Screenshots
-
+https://github.com/Harmanpreetkaur1212/Investor-Behaviour-Analytics-Dashboard/blob/main/Dashboard%20Preview.png
 
 ## 📂 Repository Structure
 - `/dashboard` → Power BI `.pbix` file  
